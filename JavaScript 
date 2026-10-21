@@ -1,0 +1,42 @@
+{
+    "skills": [
+        {
+            "icon": "🔌",
+            "name": "Network Cabling"
+        },
+        {
+            "icon": "🌐",
+            "name": "IP Addressing"
+        },
+        {
+            "icon": "🔧",
+            "name": "Troubleshooting"
+        },
+        {
+            "icon": "📡",
+            "name": "Wi-Fi Setup"
+        },
+        {
+            "icon": "💻",
+            "name": "Basic Config"
+        },
+        {
+            "icon": "🤝",
+            "name": "Teamwork"
+        }
+    ],
+    "projects": [
+        {
+            "title": "🔌 Local Area Network Setup",
+            "description": "Designed and set up a small network including cabling, IP configuration, and device testing."
+        },
+        {
+            "title": "📶 Home Network Design",
+            "description": "Planned a secure home network layout with proper device placement and Wi-Fi security settings."
+        },
+        {
+            "title": "🛠️ Network Troubleshooting",
+            "description": "Identified and resolved common connectivity problems in a simulated network environment."
+        }
+    ]
+}
